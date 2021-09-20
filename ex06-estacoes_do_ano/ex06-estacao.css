@@ -1,0 +1,28 @@
+body {
+    font: normal 15pt Verdana;
+}
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.61);
+}
+section {
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    margin: auto;    
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.61);
+    font: bold 15pt Cambria;
+    width: 500px;
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+footer {
+    color: rgb(94, 92, 92);
+    font: italic 10pt Arial;
+    text-align: center;
+    padding: 15px;
+}
