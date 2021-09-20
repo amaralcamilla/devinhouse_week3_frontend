@@ -1,0 +1,47 @@
+*{
+    font-size: 12pt;
+}
+body {
+    background-color: #bc4749;
+    background-image: url(melancia2.png);
+    color: #f2e8cf;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.562);
+    text-align: center;
+}
+h1 {
+    font-size: 40pt;
+}
+label {
+    font-weight: bold;
+}
+section {
+    background-color: rgb(46, 173, 52);
+    border-radius: 0px 20px 20px 20px;
+    padding: 20px;
+    margin: auto;
+    width: 500px; 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.72);
+}
+button {
+    background-color: #386641;
+    color: #f2e8cf;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.562);
+    padding: 8px;
+    border: none;
+    border-radius: 0px 5px 5px 5px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.72);
+}
+input {
+    padding: 7px;
+}
+select {
+    margin: 20px;
+    margin-left: 50px;
+    width: 210px;
+    font-size: 12pt;
+}
+div {
+    margin-left: 60px;
+}
