@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(221, 189, 243);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+}
+section {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.61);
+    padding: 40px;
+    width: 500px;
+    text-align: center;
+    margin:auto;
+}
+.button {
+    padding: 10px 16px 10px 16px;
+    background-color: rgb(137, 116, 151);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    border: thin;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.438);
+    font-size: 12pt;
+    margin-left: 10px;
+}
+.campo {
+    padding: 8px;
+    width: 70px;
+}
+#result {
+    padding: 5px 10px 10px 5px;
+    font-weight: bold;
+    color: rgb(54, 2, 54);
+    margin-top: 20px;
+    font-size: 18pt;
+}
+footer {
+    color: white;
+    font-size: 10pt;
+    text-shadow: 1px 1px 1px rgb(85, 85, 85);
+    font-style: italic;
+    padding: 15px;
+}
