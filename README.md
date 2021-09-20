@@ -18,3 +18,6 @@ Conforme a estação do ano, a cor de fundo e a foto são atualizadas.
 
 # ex 07, 08 e 09 - Lista de mercado
 Lista de mercado com opção de salvar e carregar lista inserida previamente.
+
+# ex 10 - Calculadora de P.A. e P.G.
+Calculadora de progressão aritmética e geométrica.
