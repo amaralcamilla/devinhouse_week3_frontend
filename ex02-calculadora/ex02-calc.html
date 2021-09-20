@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ex02-calc.css">
+    <title>Calculadora</title>
+</head>
+<body>
+    <h1>Calculadora</h1>
+
+    <section>
+        <label class="label">Digite o primeiro número:</label>
+        <input type="number" name="txtn1" id="txtn1" class="campo"> <br>
+        <label class="label">Digite o segundo número:</label>
+        <input type="number" name="txtn2" id="txtn2" class="campo"> <br>
+        <label class="label1">Selecione a operação:</label> <br>
+        <input type="button" value="&#43" class="button" onclick="somar()">
+        <input type="button" value="&#8722" class="button" onclick="subt()">
+        <input type="button" value="&#215" class="button" onclick="mult()">
+        <input type="button" value="&#247" class="button" onclick="divid()"> <br>
+        <label class="label1">Resultado: </label> <br>
+        <textarea name="res" id="res" cols="30" rows="2"></textarea>
+    </section>
+
+    
+<script src="ex02-calc.js"></script>
+</body>
+</html>
